@@ -1,0 +1,6 @@
+{
+  "name": "MediClarity AI",
+  "description": "Premium medical report interpreter translating complex biomarkers, lab values, and clinical notes into compassionate, easy-to-understand explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
